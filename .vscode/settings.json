@@ -1,0 +1,9 @@
+{
+    "CheckoutHeader.email": "kennedy.amorim@live.com",
+    "CheckoutHeader.enableSFTP": true,
+    "workbench.colorCustomizations": {},
+    "css.customData": [
+        "192.168.200.194/var/www/html/teste"
+    ],
+    "livePreview.hostIP": "192.168.200.194"
+}
